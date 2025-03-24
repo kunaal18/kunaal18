@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-- 📫 How to reach me **kunal.singhkk17@gmail.com**
+- 📫 How to reach me **kunal97738@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
